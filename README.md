@@ -45,3 +45,6 @@ I'm a passionate **robot programmer, front&back-end developer and a beginner of 
 
 Let's build something **awesome** together! 🚀🔥
 
+[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisCaiKM7&theme=radical&cache_seconds=10)](https://github.com/anuraghazra/github-readme-stats)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisCaiKM7&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+---
+
