@@ -43,8 +43,9 @@ I'm a passionate **robot programmer, front&back-end developer and a beginner of 
 - 📧 **Email**: 2150157787@qq.com
 - 💬 **WeChat**: **happylouisallthetime**
 
-Let's build something **awesome** together! 🚀🔥
-[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisCaiKM7&theme=radical&cache_seconds=10)](https://github.com/anuraghazra/github-readme-stats)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisCaiKM7&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisCaiKM7&theme=radical&cache_seconds=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisCaiKM7&layout=compact&count_private=true&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <details open>
 <summary> <img height="20px" src="https://visitcount.itsvg.in/api?id=LouisCaiKM7&label=Profile%20Views&color=12&icon=5&pretty=true" /></summary>
